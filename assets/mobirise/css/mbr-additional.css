@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+
+
+
+
+
+#menu-17 .navbar-toggler {
+  color: #000;
+}
+#menu-17 .nav-link {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-17 .navbar-brand {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+}
+#header1-f H1 {
+  font-size: 46px;
+  font-family: 'PT Sans', sans-serif;
+  text-align: left;
+}
+#header1-f P {
+  color: #fafafa;
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-f SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+#menu-18 .navbar-toggler {
+  color: #000;
+}
+#menu-18 .nav-link {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-18 .navbar-brand {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+}
