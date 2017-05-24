@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "overons.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -124,13 +124,13 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Grovako Nijmegen</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overons.html\" target=\"_blank\">Over ons...</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Links</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\" target=\"_blank\">Contact ons</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overons.html\" target=\"_blank\">Over ons...</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Links</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.grovako.nl\" target=\"_blank\">Grovako Technical Service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.grovatech.nl\" target=\"_blank\">Grovatech Techniek</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://www.vakoshop.nl\" aria-expanded=\"false\" target=\"_blank\">Vakoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.dianaline\" target=\"_blank\">Voeding en gezondheid</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\" target=\"_blank\">Contact ons</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#41a85f",
+              "color": "#2b0680",
               "font-size": "36px"
             },
             ".mbr-section-title SPAN": {
@@ -143,6 +143,10 @@
               "text-align": "left",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".mbr-section-lead B": {
               "color": "#ffffff"
             }
           },
@@ -158,16 +162,16 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "Introductie",
-          "text": "<b>Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.</b>",
+          "text": "<b><br>Deze site is nog in ontwikkeling.<br><br>Er zullen links worden gemaakt naar onze andere sites, waar we, naast een aantal technische aspecten, ook onze webshobs zullen introduceren.<br><br>Houd dus onze site in de gaten.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK TO EDIT</a> "
         },
         {
