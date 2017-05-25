@@ -747,11 +747,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #menu-j .link {
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 #menu-j .dropdown-item,
 #menu-j .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.083rem;
 }
 #menu-j .link:hover,
 #menu-j .dropdown-item:hover,
