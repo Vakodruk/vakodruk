@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 19,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -934,14 +934,19 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-g",
+          "_name": "content1",
+          "_anchor": "content1-i",
           "_params": {
             "paddingTop": "6",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgColor": "#b7e3ea"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
+          "text": "<h1><b>Disclaimer</b></h1><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">In deze disclaimer wordt verstaan onder:&nbsp;</b><br></p><p><br></p><ul><li>de eigenaar: de eigenaar van de website.</li><li>gebruik(en): alle denkbare handelingen.</li><li>u: de gebruiker (bezoeker) van de website.</li><li>de content: alle in de website aanwezige inhoud.</li></ul><p><br></p><p>Het onderstaande is van toepassing op alle pagina´s van deze website die u bekijkt. deze pagina´s te \tgebruiken stemt u in met deze disclaimer.</p><p>De content is door de eigenaar met de grootst mogelijke zorg samengesteld, doch de aanvaardt geen aansprakelijkheid ten aanzien van mogelijke onjuistheden van het getoonde.</p><p>De eigenaar is niet verantwoordelijk voor de content op de aan deze website gekoppelde bestanden en/ of websites waarnaar wordt verwezen.</p><p>Ongeautoriseerd of oneigenlijk gebruik van de content of delen daarvan maken inbreuk op intellectuele \trechten.</p><p>Toestemming tot het gebruik van de getoonde content of delen daarvan op publiekelijk toegankelijke plaatsen dient schriftelijk aan ons te worden verzocht.</p><p>&nbsp;</p><p>Nadere informatie</p><p>Indien u nog vragen, twijfels of anderzins opmerkingen hebt, kunt u HIER contact met ons opnemen.</p><p><br></p><p>Wij behouden ons alle rechten voor.</p>",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_tags": [

@@ -721,6 +721,9 @@ h6,
 #menu-c .close-icon::after {
   background-color: #000000;
 }
+#content1-i H1 {
+  font-size: 30px;
+}
 #contacts3-d H4 {
   color: #ffffff;
 }
