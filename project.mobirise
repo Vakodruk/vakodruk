@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -91,7 +91,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#b4d8de",
+            "bgColor": "#b7e3ea",
             "fontSize": "1.1",
             "fontName": {
               "name": "Open Sans",
@@ -338,13 +338,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#91c6ce"
+              "background": "#90d4de"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#a9d2d9!important"
+              "background": "#abdee7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#b4d8de"
+              "background": "#b7e3ea"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -366,7 +366,7 @@
           "_name": "menu",
           "_anchor": "menu-3",
           "_params": {
-            "bgColor": "#b4d8de",
+            "bgColor": "#b7e3ea",
             "fontSize": "1.1",
             "fontName": {
               "name": "Open Sans",
@@ -419,11 +419,11 @@
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
-            "bgColor": "#add8ef",
-            "bgColorRadio": false,
+            "bgColor": "#b7e3ea",
+            "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
@@ -653,7 +653,7 @@
           "_name": "menu",
           "_anchor": "menu-7",
           "_params": {
-            "bgColor": "#b4d8de",
+            "bgColor": "#b7e3ea",
             "fontSize": "1.1",
             "fontName": {
               "name": "Open Sans",
