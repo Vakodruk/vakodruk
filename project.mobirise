@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -249,7 +249,7 @@
           },
           "text4": "<p><a href=\"mailto:grovako@kpnmail.nl\" target=\"_blank\">grovako@kpnmail.nl</a><a href=\"mailto:support@mobirise.com\" class=\"text-warning\"></a></p>",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"www.grovatech.nl\" target=\"_blank\">Business</a></li><li><a class=\"text-white\" href=\"www.thesite4you.nl\" target=\"_blank\">Design</a></li><li><a class=\"text-white\" href=\"#\" target=\"_blank\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a href=\"www.grovako.nl\" target=\"_blank\">Techical</a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text5": "<li><a class=\"text-white\" href=\"www.grovatech.nl\" target=\"_blank\">Business</a></li><li><a class=\"text-white\" href=\"www.thesite4you.nl\" target=\"_blank\">Design</a></li><li><a href=\"www.grovako.nl\" target=\"_blank\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Portfolio</a></li><li><a href=\"www.grovako.nl\" target=\"_blank\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Techical</a></li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Science</a></li>",
           "text6": "<strong>Contacts</strong><br>Email: grovako@kpnmail.nl<br>Tel: +31 (0) 24 355 24 55<br>Mob: +31 (0) 6 13 964 832<br><br><br><strong>Adres</strong><br>Bijsterhuizen 2134<br>6604 LG &nbsp;Wijchen<br>The Netherlands",
           "form": {
             "title": "MESSAGE",
