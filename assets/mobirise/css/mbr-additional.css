@@ -671,11 +671,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #menu-c .link {
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 #menu-c .dropdown-item,
 #menu-c .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.083rem;
 }
 #menu-c .link:hover,
 #menu-c .dropdown-item:hover,
@@ -712,7 +712,7 @@ h6,
 }
 #menu-c .link[aria-expanded="true"],
 #menu-c .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #41a85f!important;
 }
 #menu-c .close-icon::before,
 #menu-c .close-icon::after {
