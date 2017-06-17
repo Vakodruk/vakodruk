@@ -475,7 +475,7 @@
               "stateDetails": ""
             },
             "paddingTop": "5",
-            "paddingBottom": 4,
+            "paddingBottom": "3",
             "bgColor": "#b7e3ea"
           },
           "_tags": [
