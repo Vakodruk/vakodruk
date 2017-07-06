@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "test.html",
+    "currentPage": "volgons.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1929,10 +1929,10 @@
         }
       ]
     },
-    "test.html": {
+    "volgons.html": {
       "settings": {
-        "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
+        "title": "Volg ons",
+        "meta_descr": "Volg ons op sociale media"
       },
       "components": [
         {
