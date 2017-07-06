@@ -733,7 +733,7 @@ h6,
 }
 #menu-j .link[aria-expanded="true"],
 #menu-j .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #41a85f!important;
 }
 #menu-j .close-icon::before,
 #menu-j .close-icon::after {
@@ -1010,5 +1010,92 @@ h6,
   color: #3d8eb9;
 }
 #footer1-w P {
+  color: #ffffff;
+}
+
+#menu-1i .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1i .navbar-caption {
+  color: #ffffff;
+  font-size: 25px;
+}
+#menu-1i .navbar-toggler {
+  color: #000000;
+}
+#menu-1i .link,
+#menu-1i .dropdown-item {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-1i .link {
+  font-size: 1rem;
+}
+#menu-1i .dropdown-item,
+#menu-1i .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-1i .link:hover,
+#menu-1i .dropdown-item:hover,
+#menu-1i .link:focus,
+#menu-1i .dropdown-item:focus {
+  color: #41a85f;
+}
+#menu-1i .link[aria-expanded="true"],
+#menu-1i .dropdown-menu {
+  background: #90d4de;
+}
+#menu-1i .nav-dropdown-sm .link:focus,
+#menu-1i .nav-dropdown-sm .link:hover,
+#menu-1i .nav-dropdown-sm .dropdown-item:focus,
+#menu-1i .nav-dropdown-sm .dropdown-item:hover {
+  background: #abdee7!important;
+}
+#menu-1i .navbar,
+#menu-1i .nav-dropdown-sm,
+#menu-1i .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1i .nav-dropdown-sm .dropdown-menu {
+  background: #b7e3ea;
+}
+#menu-1i .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-1i .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1i .bg-color.transparent.opened .link:hover,
+#menu-1i .bg-color.transparent.opened .link:focus {
+  color: #41a85f;
+}
+#menu-1i .link[aria-expanded="true"],
+#menu-1i .dropdown-item[aria-expanded="true"] {
+  color: #41a85f!important;
+}
+#menu-1i .close-icon::before,
+#menu-1i .close-icon::after {
+  background-color: #000000;
+}
+#social-buttons4-1o .mbr-section-title,
+#social-buttons4-1o .btn-social {
+  color: #fff;
+}
+#social-buttons4-1o .mbr-section-title {
+  font-size: 36px;
+  color: #000000;
+}
+#contacts3-1j H4 {
+  color: #3d8eb9;
+}
+#contacts3-1j STRONG {
+  color: #3d8eb9;
+}
+#contacts3-1j P {
+  color: #ffffff;
+}
+#contacts3-1j LI {
+  color: #3d8eb9;
+}
+#footer1-1k P {
   color: #ffffff;
 }
