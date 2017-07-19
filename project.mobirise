@@ -1,12 +1,12 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "volgons.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#41a85f",
+        "primaryColor": "#3d8eb9",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#8cb3b9",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 66,
+    "uniqCompNum": 70,
     "versionPublish": "4.0.6"
   },
   "pages": {
@@ -1984,7 +1984,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#41a85f!important"
+              "color": "#3d8eb9!important"
             },
             ".close-icon::before, .close-icon::after": {
               "background-color": "#000000"
