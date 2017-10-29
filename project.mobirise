@@ -1,12 +1,12 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#3d8eb9",
+        "primaryColor": "#74d690",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#8cb3b9",
@@ -19,10 +19,14 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#b7e3ea",
+        "#74d690"
+      ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 73,
+    "uniqCompNum": 90,
     "versionPublish": "4.2.4"
   },
   "pages": {
@@ -162,7 +166,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/5-2000x1500.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#a07e49",
+            "bgColor": "#7e9b9f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -196,8 +200,8 @@
           },
           "_anchor": "contacts3-2",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -508,8 +512,8 @@
           },
           "_anchor": "contacts3-4",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -760,8 +764,8 @@
           },
           "_anchor": "contacts3-d",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1015,8 +1019,8 @@
           },
           "_anchor": "contacts3-k",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1273,8 +1277,8 @@
           },
           "_anchor": "contacts3-o",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1564,8 +1568,8 @@
           },
           "_anchor": "contacts3-8",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1852,8 +1856,8 @@
           },
           "_anchor": "contacts3-v",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -2116,8 +2120,8 @@
             }
           },
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -2230,6 +2234,340 @@
           },
           "text": "Copyright (c) 2016 Grovako Nijmegen.",
           "_anchor": "footer1-1k"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "Prijzen",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "25px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#90d4de"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#abdee7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#b7e3ea"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#b7e3ea",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-90x90-beeld-195x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Grovako Nijmegen</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Home</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"over ons.html\" data-app-selector=\".nav-link, .dropdown-item\"><span class=\"etl-icon icon-presentation mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Over ons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"openingstijden.html\" data-app-selector=\".nav-link, .dropdown-item\"><span class=\"etl-icon icon-clock mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Openingstijden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy.html\" data-app-selector=\".nav-link, .dropdown-item\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Privacy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"disclamer.html\" data-app-selector=\".nav-link, .dropdown-item\"><span class=\"etl-icon icon-lock mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Disclamer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"algemenevoorwaarden.html\" data-app-selector=\".nav-link, .dropdown-item\"><span class=\"etl-icon icon-book-open mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Algemene Voorwaarden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"volgons.html\" data-app-selector=\".nav-link, .dropdown-item\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Volg ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"etl-icon icon-attachment mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(44, 130, 201);\"></span>Links</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.grovako.nl\" target=\"_blank\"><span class=\"etl-icon icon-gears mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Grovako TS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.grovatech.nl\" target=\"_blank\"><span class=\"etl-icon icon-gears mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Grovatech TS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.vakodrukwerk.nl\" target=\"_blank\"><span class=\"etl-icon icon-newspaper mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Drukwerk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://dianaline.nl\" target=\"_blank\"><span class=\"mbri-hot-cup mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Voeding</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"www.vakoshop.nl\" aria-expanded=\"false\" target=\"_blank\">Socials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.yourhosting.nl\" target=\"_blank\"><span class=\"mbri-sites mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Hosting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"www.google maps.nl\" target=\"_blank\"><span class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.google.nl\" target=\"_blank\"><span class=\"etl-icon icon-googleplus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Google</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\" target=\"_blank\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\" target=\"_blank\"><span class=\"etl-icon icon-download mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>DOWNLOAD</a></li>",
+          "_anchor": "menu-2e"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000",
+              "font-size": "15px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-price-term": {
+              "color": "#000000"
+            },
+            ".mbr-price-value": {
+              "color": "#000000"
+            },
+            ".mbr-price-figure": {
+              "color": "#000000"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#000000"
+            },
+            ".mbr-plan-title": {
+              "color": "#000000"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "bg-primary",
+            "fourthType": "",
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#b7e3ea",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Prijs tabel",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "title1": "STANDARD",
+          "title2": "BUSINESS",
+          "title3": "PREMIUM",
+          "title4": "ULTIMATE",
+          "subtitle1": "Description",
+          "subtitle2": "Description",
+          "subtitle3": "Description",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "0",
+          "price2": "0",
+          "price3": "0",
+          "price4": "0",
+          "period1": "/mo.",
+          "period2": "/mo.",
+          "period3": "/mo.",
+          "period4": "/mo.",
+          "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-2h"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#3d8eb9"
+            },
+            "STRONG": {
+              "color": "#3d8eb9"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "LI": {
+              "color": "#3d8eb9"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-90x90-beeld-265x173.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Grovako Nijmegen",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+31 (0) 24 355 24 55",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "Bijsterhuizen 2134<br>6604 LG &nbsp;Wijchen<br>The Netherlands",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:grovako@kpnmail.nl\" target=\"_blank\" class=\"text-info\">grovako@kpnmail.nl</a><a href=\"mailto:support@mobirise.com\" class=\"text-warning\"></a></p>",
+          "title1": "Categories",
+          "text5": "<li><a href=\"http://www.grovako.nl\" target=\"_blank\">Grovako.nl</a><a href=\"http://www.printenfullcolour.com\" target=\"_blank\" class=\"text-info\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\"></a><br></li><li><a href=\"http://www.grovatech.nl\" target=\"_blank\">Grovatech.nl</a><a href=\"http://www.vakoshop.nl\" target=\"_blank\" class=\"text-info\"></a><a href=\"http://www.grovako.nl\" target=\"_blank\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\" class=\"text-white\"></a></li><li><a href=\"http://printenfullcolour.com\" target=\"_blank\">Portfolio</a><a href=\"http://printenfullcolour.com\" target=\"_blank\"></a></li><li><a href=\"http://www.vakoshop.nl\" target=\"_blank\">Drukwerk</a><a href=\"http://www.vakoshop.nl\" target=\"_blank\"></a></li><li><a href=\"http://www.dianaline.nl\" target=\"_blank\">Link</a><a href=\"http://www.vakoshop.nl\" target=\"_blank\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: grovako@kpnmail.nl<br>Tel: +31 (0) 24 355 24 55<br>Mob: +31 (0) 6 13 964 832<br><br><br><strong>Adres</strong><br>Bijsterhuizen 2134<br>6604 LG &nbsp;Wijchen<br>The Netherlands",
+          "form": {
+            "title": "MESSAGE",
+            "action": "grovatech@chello.nl",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name:*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email:*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone:*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message:*"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "_anchor": "contacts3-2f"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Grovako Nijmegen.",
+          "_anchor": "footer1-2g"
         }
       ]
     }
