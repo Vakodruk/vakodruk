@@ -566,7 +566,7 @@ h6,
 }
 #menu-3 .link[aria-expanded="true"],
 #menu-3 .dropdown-item[aria-expanded="true"] {
-  color: #41a85f!important;
+  color: #3d8eb9!important;
 }
 #menu-3 .close-icon::before,
 #menu-3 .close-icon::after {
@@ -818,7 +818,7 @@ h6,
 }
 #menu-n .link[aria-expanded="true"],
 #menu-n .dropdown-item[aria-expanded="true"] {
-  color: #41a85f!important;
+  color: #3d8eb9!important;
 }
 #menu-n .close-icon::before,
 #menu-n .close-icon::after {

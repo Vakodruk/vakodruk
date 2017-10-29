@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 72,
+    "uniqCompNum": 73,
     "versionPublish": "4.2.4"
   },
   "pages": {
@@ -365,7 +365,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#41a85f!important"
+              "color": "#3d8eb9!important"
             },
             ".close-icon::before, .close-icon::after": {
               "background-color": "#000000"
@@ -1184,7 +1184,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#41a85f!important"
+              "color": "#3d8eb9!important"
             },
             ".close-icon::before, .close-icon::after": {
               "background-color": "#000000"
