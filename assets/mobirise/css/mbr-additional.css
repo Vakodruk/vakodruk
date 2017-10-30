@@ -566,7 +566,7 @@ h6,
 }
 #menu-3 .link[aria-expanded="true"],
 #menu-3 .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #74d690!important;
 }
 #menu-3 .close-icon::before,
 #menu-3 .close-icon::after {
@@ -576,7 +576,7 @@ h6,
   color: #232323;
 }
 #form1-6 .mbr-section-title {
-  font-size: 32px;
+  font-size: 24px;
 }
 #contacts3-4 H4 {
   color: #3d8eb9;
@@ -651,7 +651,7 @@ h6,
 }
 #menu-c .link[aria-expanded="true"],
 #menu-c .dropdown-item[aria-expanded="true"] {
-  color: #41a85f!important;
+  color: #74d690!important;
 }
 #menu-c .close-icon::before,
 #menu-c .close-icon::after {
@@ -733,7 +733,7 @@ h6,
 }
 #menu-j .link[aria-expanded="true"],
 #menu-j .dropdown-item[aria-expanded="true"] {
-  color: #41a85f!important;
+  color: #74d690!important;
 }
 #menu-j .close-icon::before,
 #menu-j .close-icon::after {
@@ -744,6 +744,9 @@ h6,
 }
 #content1-m H1 {
   font-size: 25px;
+}
+#content1-m H4 {
+  font-size: 24px;
 }
 #contacts3-k H4 {
   color: #3d8eb9;
@@ -906,7 +909,7 @@ h6,
 }
 #menu-7 .link[aria-expanded="true"],
 #menu-7 .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #74d690!important;
 }
 #menu-7 .close-icon::before,
 #menu-7 .close-icon::after {
@@ -914,14 +917,7 @@ h6,
 }
 #content7-b P {
   color: #000000;
-}
-#content8-1z .mbr-section-title,
-#content8-1z p {
-  text-align: right;
-  color: #fff;
-}
-#content8-1z P {
-  text-align: left;
+  font-size: 17px;
 }
 #contacts3-8 H4 {
   color: #3d8eb9;
@@ -940,7 +936,7 @@ h6,
 }
 
 #msg-box5-18 H3 {
-  font-size: 20px;
+  font-size: 24px;
 }
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
@@ -999,7 +995,7 @@ h6,
 }
 #menu-u .link[aria-expanded="true"],
 #menu-u .dropdown-item[aria-expanded="true"] {
-  color: #41a85f!important;
+  color: #74d690!important;
 }
 #menu-u .close-icon::before,
 #menu-u .close-icon::after {
@@ -1078,7 +1074,7 @@ h6,
 }
 #menu-1i .link[aria-expanded="true"],
 #menu-1i .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #74d690!important;
 }
 #menu-1i .close-icon::before,
 #menu-1i .close-icon::after {
@@ -1089,7 +1085,7 @@ h6,
   color: #fff;
 }
 #social-buttons4-1o .mbr-section-title {
-  font-size: 36px;
+  font-size: 24px;
   color: #000000;
 }
 #contacts3-1j H4 {
@@ -1105,114 +1101,5 @@ h6,
   color: #3d8eb9;
 }
 #footer1-1k P {
-  color: #ffffff;
-}
-
-
-#menu-2e .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-2e .navbar-caption {
-  color: #ffffff;
-  font-size: 25px;
-}
-#menu-2e .navbar-toggler {
-  color: #000000;
-}
-#menu-2e .link,
-#menu-2e .dropdown-item {
-  color: #000000;
-  font-family: 'Open Sans', sans-serif;
-}
-#menu-2e .link {
-  font-size: 1rem;
-}
-#menu-2e .dropdown-item,
-#menu-2e .nav-dropdown-sm .link {
-  font-size: 1.083rem;
-}
-#menu-2e .link:hover,
-#menu-2e .dropdown-item:hover,
-#menu-2e .link:focus,
-#menu-2e .dropdown-item:focus {
-  color: #74d690;
-}
-#menu-2e .link[aria-expanded="true"],
-#menu-2e .dropdown-menu {
-  background: #90d4de;
-}
-#menu-2e .nav-dropdown-sm .link:focus,
-#menu-2e .nav-dropdown-sm .link:hover,
-#menu-2e .nav-dropdown-sm .dropdown-item:focus,
-#menu-2e .nav-dropdown-sm .dropdown-item:hover {
-  background: #abdee7!important;
-}
-#menu-2e .navbar,
-#menu-2e .nav-dropdown-sm,
-#menu-2e .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-2e .nav-dropdown-sm .dropdown-menu {
-  background: #b7e3ea;
-}
-#menu-2e .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#menu-2e .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-2e .bg-color.transparent.opened .link:hover,
-#menu-2e .bg-color.transparent.opened .link:focus {
-  color: #74d690;
-}
-#menu-2e .link[aria-expanded="true"],
-#menu-2e .dropdown-item[aria-expanded="true"] {
-  color: #74d690!important;
-}
-#menu-2e .close-icon::before,
-#menu-2e .close-icon::after {
-  background-color: #000000;
-}
-#pricing-table1-2h .mbr-section__container .mbr-section-title {
-  color: #000000;
-}
-#pricing-table1-2h .mbr-section__container .mbr-section-subtitle {
-  color: #000000;
-}
-#pricing-table1-2h UL {
-  color: #000000;
-  font-size: 15px;
-  font-family: 'Open Sans', sans-serif;
-}
-#pricing-table1-2h .mbr-price-term {
-  color: #000000;
-}
-#pricing-table1-2h .mbr-price-value {
-  color: #000000;
-}
-#pricing-table1-2h .mbr-price-figure {
-  color: #000000;
-}
-#pricing-table1-2h .mbr-plan-price-desc {
-  color: #000000;
-}
-#pricing-table1-2h .mbr-plan-title {
-  color: #000000;
-}
-#pricing-table1-2h .mbr-plan-subtitle {
-  color: #000000;
-}
-#contacts3-2f H4 {
-  color: #3d8eb9;
-}
-#contacts3-2f STRONG {
-  color: #3d8eb9;
-}
-#contacts3-2f P {
-  color: #ffffff;
-}
-#contacts3-2f LI {
-  color: #3d8eb9;
-}
-#footer1-2g P {
   color: #ffffff;
 }
